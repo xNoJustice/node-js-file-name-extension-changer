@@ -1,0 +1,16 @@
+{
+  "name": "node-js-file-extension-changer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
+}
